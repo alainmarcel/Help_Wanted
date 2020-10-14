@@ -1,5 +1,5 @@
-# Help_Wanted for Surelog, UHDM, UHDM-Yosys, UHDM-Verilator
-Ideas that need engineering-power from the community for UHDM/Surelog/Related topics
+# Help Wanted for Surelog, UHDM, UHDM-Yosys, UHDM-Verilator
+This repo collects ideas that need engineering-power from the community for UHDM/Surelog/Related topics
 
 The ideas are created in the form of Issues.
 
